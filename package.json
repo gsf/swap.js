@@ -1,0 +1,14 @@
+{
+  "name": "swap",
+  "version": "0.0.0",
+  "description": "Horribly simple templating",
+  "homepage": "https://github.com/gsf/swap.js.git",
+  "main": "./swap",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gsf/swap.js.git"
+  },
+  "scripts" : { 
+    "test" : "node test.js"
+  }
+}
