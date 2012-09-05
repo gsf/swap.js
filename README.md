@@ -32,5 +32,5 @@ Prepend with a backslash to escape a replacement field.
 ```js
 var demo = swap('This is a field: \{bob}.')
 
-console.log(demo) // "This is a field; {bob}."
+console.log(demo) // "This is a field: {bob}."
 ```
