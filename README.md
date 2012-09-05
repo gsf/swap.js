@@ -1,9 +1,8 @@
-swap.js
-=======
+# swap.js
 
 Horribly simple templating
 
-# Usage
+## Usage
 
 Swap performs string interpolation. 
 
