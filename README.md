@@ -1,6 +1,8 @@
 # swap.js
 
-Horribly simple templating
+Horribly simple templating.
+
+[![Build Status](https://travis-ci.org/gsf/swap.js.png?branch=master)](https://travis-ci.org/gsf/swap.js)
 
 ## Usage
 
