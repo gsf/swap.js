@@ -1,5 +1,5 @@
 var assert = require('assert')
-var swap = require('./swap')
+var swap = require('./index')
 
 assert.equal(swap('bob'), 'bob')
 assert.equal(swap('{}'), '{}')
